@@ -1,0 +1,1 @@
+This folder contains scripts for creating TD3 agents and their respective configurations in this study. The scripts 'create31TD3.mlx' and 'create32TD3.mlx' initializes the agents acting as controllers respectively, both requires the 'fullyConnectedPILayer.mm' function.
